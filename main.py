@@ -13,7 +13,7 @@ cursor = cnx.cursor()
 csv_directory = 'csv'
 
 # Specify the table name manually
-table_name = 'articles'  # Replace with your desired table name
+table_name = 'your_table_name'  # Replace with your desired table name
 
 # Function to check if a table exists
 def table_exists(table_name):
